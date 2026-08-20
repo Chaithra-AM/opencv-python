@@ -21,3 +21,11 @@ Allows the user to draw multiple lines on a live webcam feed using mouse interac
 ### 6. Video Flip
 
 Captures live video using the webcam and flips the video horizontally using OpenCV.
+
+### 7. Image Properties
+
+Displays and analyzes image properties such as dimensions, channels, and data type.
+
+### 8. Image Manipulation
+
+Performs basic image manipulation operations such as resizing and rotation.
